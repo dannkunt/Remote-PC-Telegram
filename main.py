@@ -1,5 +1,4 @@
 import tkinter
-import re
 import configparser
 import requests
 import webbrowser
@@ -10,8 +9,6 @@ import distro
 import psutil
 import platform
 import keyboard
-
-from bs4 import BeautifulSoup
 
 
 def command_info():
