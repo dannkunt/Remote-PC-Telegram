@@ -1,5 +1,4 @@
 import tkinter
-from tkinter import filedialog
 import subprocess
 import configparser
 import platform
