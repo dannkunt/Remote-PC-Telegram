@@ -1,4 +1,5 @@
 import tkinter
+import re
 import configparser
 import requests
 import webbrowser
